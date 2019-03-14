@@ -20,26 +20,45 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  company = "Dgraph Labs, Inc."
+  company_url = "https://dgraph.io"
+  location = "San Francisco, California"
+  date_start = "2016-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+Dgraph is the world's most advanced graph database. It is horizontally scalable, synchronously replicated, transactional and distributed. It can do arbitrarily deep joins, while minimizing network communication and disk seeks, scaling well as cluster size increases. It is a low-latency, high-throughput database, serving complex queries over multiple independent data sources in real-time.
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Senior Software Engineer"
+  company = "Google"
+  company_url = "https://google.com "
+  location = "Mountain View, California"
+  date_start = "2007-08-01"
+  date_end = "2013-05-15"
+  description = """
+*In reverse chronological order:*
+
+Led a team of engineers for a project to build low latency, high throughput
+graph system to consolidate structured data. Replaced various custom backends
+with this system, allowing better data sharing and lowering engineering
+resources required to launch new knowledge projects. Google's Knowledge Graph
+and OneBoxes (weather, movie showtimes, flights etc.) are utilizing this
+technology.
+
+Built a knowledge engine which can truly understand user's query using Freebase
+Graph, and generate appropriate results. Eventually launched as Knowledge Bar at
+google.com for listy queries.
+
+Received OC award for successful launch of *Caffeine*: Google's
+incremental indexing system providing 50% fresher results, and the largest
+collection of web content ever offered by Google.
+
+Built various solutions around tackling size control, index quality and page
+freshness issues in a system holding *>100PB* of data.
+
+"""
+
 
 +++
