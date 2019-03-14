@@ -60,5 +60,20 @@ freshness issues in a system holding *>100PB* of data.
 
 """
 
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Google"
+  company_url = "https://google.com "
+  location = "Mountain View, California"
+  date_start = "2006-06-06"
+  date_end = "2007-01-31"
+  description = """
+Ported Bigtable's *RowMutation* C++ APIs to Python. Bigtable is a distributed,
+scalable, proprietary data storage system owned by Google.
+
+Ported Google Localization Framework from relational DB to Bigtable,
+significantly cutting down latency of data retrieval. Implemented search and
+logging functionality for various tools in the framework.
+"""
 
 +++
