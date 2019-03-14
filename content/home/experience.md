@@ -55,7 +55,7 @@ Received OC award for successful launch of *Caffeine*: Google's
 incremental indexing system providing 50% fresher results, and the largest
 collection of web content ever offered by Google.
 
-Built various solutions around tackling size control, index quality and page
+Built various solutions tackling size control, index quality and page
 freshness issues in a system holding *>100PB* of data.
 
 """
