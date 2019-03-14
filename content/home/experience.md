@@ -48,8 +48,8 @@ and OneBoxes (weather, movie showtimes, flights etc.) are utilizing this
 technology.
 
 Built a knowledge engine which can truly understand user's query using Freebase
-Graph, and generate appropriate results. Eventually launched as Knowledge Bar at
-google.com for listy queries.
+Graph, and generate appropriate results. Eventually launched as Knowledge strip
+at google.com for listy queries.
 
 Received OC award for successful launch of *Caffeine*: Google's
 incremental indexing system providing 50% fresher results, and the largest
